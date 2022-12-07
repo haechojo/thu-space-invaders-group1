@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/.idea" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/.settings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/.vscode" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bgm" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/META-INF" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/engine" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/entity" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/screen" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/teams" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
